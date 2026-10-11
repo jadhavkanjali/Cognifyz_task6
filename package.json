@@ -1,0 +1,19 @@
+{
+  "name": "cognifyz-advanced-server",
+  "version": "1.0.0",
+  "description": "Advanced server-side functionality project by Anjali Jadhav for Cognifyz Technology",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Anjali Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.1",
+    "helmet": "^8.3.0",
+    "node-cache": "^5.1.2"
+  }
+}

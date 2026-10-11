@@ -1,0 +1,7 @@
+{"time":"2026-10-11T14:57:42.541Z","method":"GET","path":"/","status":200,"durationMs":17}
+{"time":"2026-10-11T14:57:42.918Z","method":"GET","path":"/favicon.ico","status":404,"durationMs":2}
+{"time":"2026-10-11T14:58:01.257Z","method":"GET","path":"/","status":200,"durationMs":1}
+{"time":"2026-10-11T14:58:07.013Z","method":"GET","path":"/","status":200,"durationMs":1}
+{"time":"2026-10-11T14:58:16.900Z","method":"GET","path":"/","status":304,"durationMs":1}
+{"time":"2026-10-11T14:58:31.125Z","method":"GET","path":"/api/health","status":200,"durationMs":28}
+{"time":"2026-10-11T14:59:15.764Z","method":"GET","path":"/","status":200,"durationMs":12}
